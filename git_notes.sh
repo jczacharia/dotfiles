@@ -22,3 +22,13 @@ git log --all --decorate --oneline --graph
 
 #rename branch
 git branch -m <oldname> <newname>
+
+#delete a branch on GitHub (origin)
+git push origin -d <branch>
+
+######################
+git commit -a -m 'fixed the broken email address'
+#is the same as
+git add .
+git commit -m 'fixed the broken email address'
+######################
