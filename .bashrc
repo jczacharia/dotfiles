@@ -7,4 +7,4 @@ alias cls='clear && ls'
 
 
 # Installation:
-# source .bashrc
+source .bashrc
