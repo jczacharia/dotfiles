@@ -1,2 +1,2 @@
 # dotfiles
-Vim; Bash (zsh); Git; etc.
+Everything to improve Linux
