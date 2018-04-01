@@ -1,0 +1,13 @@
+#alias
+alias clr='clear;ls'
+alias rm='rm -i'
+alias cp='cp -i'
+alias mv='mv -i'
+alias graph='git log --all --decorate --oneline --graph'
+
+#launch tmux
+tmux
+
+#Switch CAPS LOCK with escape key (for Vim on Arch Linux)
+setxkbmap -option caps:escape
+
