@@ -11,3 +11,4 @@ tmux
 #Switch CAPS LOCK with escape key (for Vim on Arch Linux)
 setxkbmap -option caps:escape
 
+# Jeremy C. Zacharia
