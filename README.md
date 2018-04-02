@@ -1,3 +1,3 @@
 # dotfiles
 ## Everything to improve Linux
-Author - Jeremy C. Zacharia - iss1 act
+Author - Jeremy C. Zacharia - iss2
