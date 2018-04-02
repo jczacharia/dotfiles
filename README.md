@@ -1,2 +1,4 @@
 # dotfiles
-Everything to improve Linux
+## Everything to improve Linux
+
+Jeremy C. Zacharia
