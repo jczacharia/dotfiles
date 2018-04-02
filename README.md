@@ -1,3 +1,3 @@
 # dotfiles
 ## Everything to improve Linux
-### Jeremy C. Zacharia
+Author - Jeremy C. Zacharia

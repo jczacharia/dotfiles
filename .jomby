@@ -1,3 +1,5 @@
+######### Jeremy's Bash configs #########
+
 #alias
 alias clr='clear;ls'
 alias rm='rm -i'
