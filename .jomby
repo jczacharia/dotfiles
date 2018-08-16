@@ -7,7 +7,7 @@ alias cp='cp -i'
 alias mv='mv -i'
 alias graph='git log --all --decorate --oneline --graph'
 
-#Switch CAPS LOCK with escape key (for Vim on Arch Linux)
-setxkbmap -option caps:escape
+#F*** CAPS LOCK
+xmodmap -e "remove lock = Caps_Lock"
 
 # Jeremy C. Zacharia
