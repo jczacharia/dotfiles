@@ -12,6 +12,8 @@ back to .cpp files. Nice!
 RUN THIS SCRIPT BEFORE GENERATING ON CUBE!
 
 """)
+#edit
+
 
 print("Deleting all .c files")
 cs = glob.glob('*.c')
